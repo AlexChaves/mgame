@@ -1,0 +1,11 @@
+{
+  "cartas": [
+    { "nombre": "cereza", "img": "assets/images/cereza.png" },
+    { "nombre": "fresa", "img": "assets/images/fresa.png" },
+    { "nombre": "naranja", "img": "assets/images/naranja.png" },
+    { "nombre": "pina", "img": "assets/images/pina.png" },
+    { "nombre": "manzana", "img": "assets/images/manzana.png" },
+    { "nombre": "sandia", "img": "assets/images/sandia.png" },
+    { "nombre": "sandiax", "img": "assets/images/sandiax.png" }
+  ]
+}
